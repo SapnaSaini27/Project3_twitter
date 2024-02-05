@@ -33,18 +33,6 @@ Stopword Removal:
 Special Character Removal:
  After all this some special characters are still remain, so i remove all of this except A-Za-z
 
-5. Text Analysis
-Summarize the results of the text analysis after preprocessing.
-Discuss any challenges encountered and how they were addressed.
-Include visualizations or tables to showcase key findings.
-7. Conclusion
-Summarize the overall project, emphasizing its significance and contributions.
-Highlight any lessons learned and potential areas for future improvement or research.
-8. References
-Include citations to any external libraries, datasets, or research papers referenced during the project.
-9. Code Repository Link
-If your code is available in a repository, provide a link for easy access.
-Remember to keep your documentation clear, concise, and well-organized. Use a mix of narrative explanations, visualizations, and code snippets to make it comprehensive and accessible to a broad audience.
 
 
 
